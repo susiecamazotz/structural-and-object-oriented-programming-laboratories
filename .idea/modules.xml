@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Laboratories1/Laboratories1.iml" filepath="$PROJECT_DIR$/Laboratories1/Laboratories1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories11/Laboratories11.iml" filepath="$PROJECT_DIR$/Laboratories11/Laboratories11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories12/Laboratories12.iml" filepath="$PROJECT_DIR$/Laboratories12/Laboratories12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories2/Laboratories2.iml" filepath="$PROJECT_DIR$/Laboratories2/Laboratories2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories3/Laboratories3.iml" filepath="$PROJECT_DIR$/Laboratories3/Laboratories3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories4/Laboratories4.iml" filepath="$PROJECT_DIR$/Laboratories4/Laboratories4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories5/Laboratories5.iml" filepath="$PROJECT_DIR$/Laboratories5/Laboratories5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories6/Laboratories6.iml" filepath="$PROJECT_DIR$/Laboratories6/Laboratories6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories7/Laboratories7.iml" filepath="$PROJECT_DIR$/Laboratories7/Laboratories7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories8/Laboratories8.iml" filepath="$PROJECT_DIR$/Laboratories8/Laboratories8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laboratories9and10/Laboratories9and10.iml" filepath="$PROJECT_DIR$/Laboratories9and10/Laboratories9and10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structural-and-object-oriented-programming-laboratories.iml" filepath="$PROJECT_DIR$/structural-and-object-oriented-programming-laboratories.iml" />
+    </modules>
+  </component>
+</project>
