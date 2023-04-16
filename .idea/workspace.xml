@@ -5,75 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9720a54-0044-48d6-a9db-5106ab3cd0ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories1/Laboratories1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories1/src/Decimal2BinaryConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/Laboratories11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/ecdc_covid19_cases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories11/ConditionType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories11/CovidDataQA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories11/EnumShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories11/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories11/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories9and10/AllWeeksComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories9and10/CovidData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories9and10/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories9and10/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories11/src/laboratories9and10/WeeklyData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/Laboratories12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/ecdc_covid19_cases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/CovidDataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/EnumCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/TreeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/WeeklyData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories12/src/laboratories12/WeeklyDataProper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories2/Laboratories2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories2/src/ArraysLabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories3/Laboratories3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories3/src/Lab3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories4/Laboratories4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories4/src/ArraysPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories5/Laboratories5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories5/src/OperationsAndFolders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories6/Laboratories6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories6/src/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories6/src/ProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/Laboratories7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/main/laboratories7/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/main/laboratories7/ProductBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/main/laboratories7/ProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/main/laboratories7/ProductTypeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/product/exceptions/InvalidCommentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/product/exceptions/InvalidNameException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/product/exceptions/InvalidPriceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/product/exceptions/MainClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/product/exceptions/ProductType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories7/src/product/exceptions/ProductTypeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/Laboratories8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/com/laboratories8/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/com/laboratories8/HandHoldBag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/com/laboratories8/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/com/laboratories8/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/com/laboratories8/ShoppingBag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/test/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/test/DerivedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories8/src/test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/Laboratories9and10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/src/ecdc_covid19_cases.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/src/laboratories9and10/CovidData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/src/laboratories9and10/FileFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/src/laboratories9and10/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/src/laboratories9and10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laboratories9and10/src/laboratories9and10/WeeklyData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structural-and-object-oriented-programming-laboratories.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
